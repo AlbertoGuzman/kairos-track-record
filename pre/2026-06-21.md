@@ -1,6 +1,6 @@
 # kairos — Track Record público
 
-Actualizado: 2026-06-21 00:00h
+Actualizado: 2026-06-21 22:30h
 
 | F. Compra | Ticker | P. Compra | F. Venta | P. Venta | P. Actual | PnL% | Estado |
 |-----------|--------|-----------|----------|----------|-----------|------|--------|
@@ -29,4 +29,4 @@ Actualizado: 2026-06-21 00:00h
 | 2026-05-25 | ON | 116.20 | - | - | 121.62 | +4.66% | Abierta |
 | 2026-05-25 | MU | 751.00 | - | - | 1,133.99 | +51.00% | Abierta |
 
-Operaciones cerradas: 16 · Win rate: 38% · Capital: 10,195€ (+1.95%)
+Operaciones cerradas: 16 · Win rate: 38% · Capital: 10,193€ (+1.93%)
